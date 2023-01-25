@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/*
+HTML é id / CSS é #
+HTML é class / CSS é .
+*/
+
+body{
+    background-color: #e9f0f7;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h1{
+    color: #173144;
+}
+
+p{
+    color: #173144;
+}
+
+
+h1#principal{
+    background-color: #173144;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2.3em;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #DBEAF7;
+}
+
+.basico{
+    color: #468966;
+
+}
+.intermediario{
+    color: #888946;
+
+}
+.avancado{
+    color: #89464f;
+
+}
